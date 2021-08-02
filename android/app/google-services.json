@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1078895136328",
+    "project_id": "flutter-learning-b64fc",
+    "storage_bucket": "flutter-learning-b64fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078895136328:android:27090c70e5d1e910ef927d",
+        "android_client_info": {
+          "package_name": "com.example.bayern_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078895136328-s9dguvulr3vrlhv3dul7d1eqcgvog654.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBudrwG8shPgI0j-Hxe_b8e3PShedI_wZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078895136328-s9dguvulr3vrlhv3dul7d1eqcgvog654.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078895136328:android:36ddefc8e454a840ef927d",
+        "android_client_info": {
+          "package_name": "com.package.train_reservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078895136328-s9dguvulr3vrlhv3dul7d1eqcgvog654.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBudrwG8shPgI0j-Hxe_b8e3PShedI_wZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078895136328-s9dguvulr3vrlhv3dul7d1eqcgvog654.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
